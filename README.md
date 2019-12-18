@@ -12,4 +12,4 @@ Primero, debe clonarse el repositorio:
 git clone https://github.com/mfvargas/descarga-registros-presencia-gbif.git
 ```
 
-Luego, debe abrirse y ejecutarse, con la interfaz de Jupyter, el _notebook_ llamado [categorias-criterios-lista-roja-uicn.ipynb](https://github.com/mfvargas/categorias-criterios-lista-roja-uicn/blob/master/categorias-criterios-lista-roja-uicn.ipynb). Lea las instrucciones contenidas en el _notebook_.
+Luego, debe abrirse y ejecutarse, con la interfaz de Jupyter, el _notebook_ llamado [descarga-registros-presencia-gbif.ipynb](https://github.com/mfvargas/descarga-registros-presencia-gbif/blob/master/descarga-registros-presencia-gbif.ipynb). Lea las instrucciones contenidas en el _notebook_.
